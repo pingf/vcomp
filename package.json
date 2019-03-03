@@ -6,5 +6,6 @@
   },
   "scripts": {
     "start": "npm -C ./packages/demo run start"
-  }
+  },
+  "publish-npm": "lerna publish --skip-npm && lerna run publish-npm"
 }

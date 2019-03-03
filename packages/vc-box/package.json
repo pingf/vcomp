@@ -4,5 +4,6 @@
   "main": "index.js",
   "author": "dameng",
   "license": "MIT",
-  "gitHead": "ed0e59b86aaa2283eff43a20d64921bc682f6400"
+  "gitHead": "7845af1267f47062752b3ba8ef77401e73cabe8d",
+  "publish-npm": "npm publish --access public"
 }
