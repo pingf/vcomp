@@ -1,0 +1,10 @@
+{
+  "name": "vc-all",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "dameng",
+  "license": "MIT",
+  "dependencies": {
+    "vc-box": "0.0.1"
+  }
+}
