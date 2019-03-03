@@ -1,2 +1,2 @@
-var all = require('vc-all')
+var all = require('vcomp')
 console.log(all)
