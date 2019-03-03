@@ -3,9 +3,5 @@
   "private": true,
   "devDependencies": {
     "lerna": "^3.10.7"
-  },
-  "scripts": {
-    "start": "npm -C ./packages/demo run start"
-  },
-  "publish-npm": "lerna publish --skip-npm && lerna run publish-npm"
+  }
 }
