@@ -1,6 +1,6 @@
 {
   "name": "demo",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "index.js",
   "author": "dameng",
   "license": "MIT",
@@ -8,6 +8,6 @@
     "start": "node ./index.js"
   },
   "dependencies": {
-    "vc-all": "^0.1.0"
+    "vc-all": "^0.1.1"
   }
 }
