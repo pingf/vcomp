@@ -3,5 +3,6 @@
   "version": "0.1.1",
   "main": "index.js",
   "author": "dameng",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "f161973389b089f626b4cbb6e166208b5097722c"
 }
