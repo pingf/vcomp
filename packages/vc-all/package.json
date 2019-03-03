@@ -5,6 +5,6 @@
   "author": "dameng",
   "license": "MIT",
   "dependencies": {
-    "vc-box": "0.0.1"
+    "vc-box": "^0.0.1"
   }
 }
