@@ -1,11 +1,11 @@
 {
   "name": "vc-all",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "main": "index.js",
   "author": "dameng",
   "license": "MIT",
   "dependencies": {
-    "vc-box": "^0.1.2"
+    "vc-box": "^0.1.3"
   },
   "gitHead": "64c198c608412148ebe14d6f91ed226224b4aeaa"
 }
